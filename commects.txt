@@ -1,0 +1,9 @@
+Привет, Кирилл. Спасибо за ревью!
+
+Поменял код, как ты просил
+Код разбил на три файла:
+1. \solution\service_dds\src\dds_loader\repository\models.py  -  файл с классами объектов (BaseModel)
+2. \solution\service_dds\src\dds_loader\repository\dds_builder.py.py  -  файл с классом OrderDdsBuilder
+3. \solution\service_dds\src\dds_loader\repository\dds_repository.py - файл с классом DdsRepository
+
+Так...?
